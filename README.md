@@ -18,7 +18,7 @@ You are in the product team at Soundcloud.  The product lead has just tasked you
   - Customer Satisfaction.
   - Market Share.
   - Marketing Channels.
-  - Eatimated Maketing Spend.
+  - Estimated Marketing Spend.
   - Unique Differentiator.
   - Strenght.
   - Weaknesses.
