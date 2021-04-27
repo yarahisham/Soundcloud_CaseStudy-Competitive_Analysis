@@ -27,9 +27,9 @@ You are in the product team at Soundcloud.  The product lead has just tasked you
 
 ## Knowledge Officer Robric
 <p align="center">
-<img src="https://github.com/yarahisham/Soundcloud_CaseStudy-Competitive_Analysis/blob/main/Images/Screen%20Shot%202021-04-27%20at%206.16.48%20PM.jpg" alt="alt text" width="700" height="400" >
+<img src="https://github.com/yarahisham/Soundcloud_CaseStudy-Competitive_Analysis/blob/main/Images/Screen%20Shot%202021-04-27%20at%206.16.48%20PM.jpg" alt="alt text" width="700" height="300" >
 </p>
 
 <p align="center">
-<img src="https://github.com/yarahisham/Soundcloud_CaseStudy-Competitive_Analysis/blob/main/Images/Screen%20Shot%202021-04-27%20at%206.16.57%20PM.jpg" alt="alt text" width="700" height="200" >
+<img src="https://github.com/yarahisham/Soundcloud_CaseStudy-Competitive_Analysis/blob/main/Images/Screen%20Shot%202021-04-27%20at%206.16.57%20PM.jpg" alt="alt text" width="700" height="100" >
 </p>
